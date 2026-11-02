@@ -172,8 +172,8 @@ BS-MS – Artificial Intelligence & Cybersecurity
 I am interested in connecting with AI engineers, cybersecurity researchers, security practitioners and open-source developers working towards building safer AI systems.
 
 - GitHub: https://github.com/rohanbuilds-ai
-- LinkedIn: [Add your LinkedIn URL]
-- Email: [Add your professional email]
+- LinkedIn: [http://www.linkedin.com/in/rohan-k-322a99369]
+- Email: [krohank2006@gmail.com]
 
 ---
 
